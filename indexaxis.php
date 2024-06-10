@@ -13,7 +13,7 @@
             <li class="carousel_slide is-selected">
                     <div class="carousel_image">
                         <a href="perform-rec.php" target="_blank"><img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/06/press-release2.jpg" alt="Slide 1" class="desktop-image"></a>
-                        <a href="perform-rec.php" target="_blank"> <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/06/mobslider.jpg" alt="Slide 1" class="mobile-image"></a>
+                        <a href="perform-rec.php" target="_blank"> <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/06/press-release2.jpg" alt="Slide 1" class="mobile-image"></a>
                     </div>
                 </li>
                 <li class="carousel_slide">
